@@ -24,16 +24,19 @@
 							<!-- <span class="image main"><img src="images/pic01.jpg" alt=""/></span> -->
 						</div>
 						<div class="content">
-							<div class="inner">
-								<h1>Matt Buchholz</h1>
-								<p>Machine learning engineer skilled in computer vision, generative models, and inverse problems</p>
+							<div class="inner" id="intro">
+								<script type="text/javascript">
+									fetch("text/intro.txt")
+									.then( response => response.text() )
+									.then( text => document.getElementById("intro").innerHTML = text )
+								</script>
 							</div>
 						</div>
 						<nav>
 							<ul>
 								<li><a href="#bio">Bio</a></li>
 								<li><a href="https://github.com/buchholzmd">Code</a></li>
-								<li><a href="#pubs">Papers</a></li>
+								<li><a href="#pubs">Publications</a></li>
 								<li><a href="#blog">Blog</a></li>
 								<li><a href="#contact">Contact</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
@@ -46,21 +49,11 @@
 
 						<!-- Bio -->
 							<article id="bio">
-								<h2 class="major">About me</h2>
-								<span class="image main"><img src="images/pic01.jpg" alt="" 
-									width=auto 
-									height=auto /></span>
-								
 								<script type="text/javascript">
-								fetch("bio.txt")
+								fetch("text/bio.txt")
 								.then( response => response.text() )
 								.then( text => document.getElementById("bio").innerHTML = text )
 								</script>
-
-								<p id="bio"></p>
-								<!-- <p>I received my BS in Computer Science and BA in Physics with a Minor in Mathematics from California State University, Long Beach (2021). During this time, I worked with Dr. Wenlu Zhang in the <a href=http://csulb-ml.github.io/>Deep Learning Lab (LBDL)</a> where we explored the intersection between Guassian processes, recurrent networks, and attention mechanisms for time-series analysis in collaboration with CSULB's <a href="https://www.csulb.edu/shark-lab">Shark Lab</a>. We also applied functional data analysis and deep learning for anomaly detection in thermal images for 3D printing.</p>
-								<p>After graduating, I spent 2 years at Samsung Research America with the Think Tank Team working on a variety of scientific and engineering problems involving Computational Imaging, Signal Processing, Inverse Rendering, Fourier Optics, and object tracking and registration in Robotics systems. </p>
-								<p>I am currently studying Mathematics at New York University at the Courant Institute. My current interests lie at the intersections of functional and harmonic analysis as well as probability and optimal transport theory in application to deep learning, computer vision, and inverse problems. My primary goal is to explain and utilize implicit statistical priors in generative models and to understand the information they encode about function spaces of natural images.</p> -->
 							</article>
 
 						<!-- Papers -->
@@ -85,8 +78,7 @@
 						<!-- About -->
 							<article id="blog">
 								<h2 class="major">Blog</h2>
-								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p>Coming soon... (:</p>
+								<iframe src="https://buchholzmd.github.io/paying-in-attention/" style="width:100%; height:550px;"></iframe>
 							</article>
 
 						<!-- Contact -->
