@@ -9,7 +9,7 @@
 completing a Master's thesis advised by <a href=https://cims.nyu.edu/~gunturk/>Sinan Güntürk</a> 
 on the approximation capacity of deep neural networks.</p>
 
-<p>My research focus is in applying tools from
+<p>My research focus is on applying tools from
 functional and harmonic analysis, 
 probability theory and stochastic processes, 
 and optimal transport theory in developing a mathematical theory of neural networks.
@@ -22,7 +22,7 @@ During this time, I worked with <a href=https://home.csulb.edu/~wzhang2/>Wenlu Z
 where we explored the intersection between Gaussian processes, recurrent networks, and attention mechanisms for time-series analysis 
 in collaboration with CSULB's <a href="https://www.csulb.edu/shark-lab">Shark Lab</a>, leading to a <a href=https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_13.pdf>KDD 2021 Workshop Paper</a>. 
 
-We also applied functional data analysis and trasnfer learning for anomaly detection in thermal images for 3D printing.</p>
+We also applied functional data analysis and transfer learning for anomaly detection in thermal images for 3D printing.</p>
 
 <p>After graduating, I spent 2 years as a Machine Learning Engineer at Samsung Research America with the Think Tank Team 
 working under Rehmi Post on a variety of scientific and engineering problems involving
