@@ -1,29 +1,33 @@
 <h2 class="major">About me</h2>
 <center>
-<span class="image main"><img src="images/pic01.jpg" alt="" 
-    style="width: 50%; height: 50%" />
-</span>
+  <span class="image right">
+    <img src="images/pic01.jpg" alt=""
+      style="
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        object-fit: cover;
+        object-position: center 33%;
+      "
+    />
+  </span>
 </center>
 
-<p>I'm a Master's candidate in Mathematics at the Courant Institute of Mathematical Sciences at NYU. I am 
-completing a Master's thesis advised by <a href=https://cims.nyu.edu/~gunturk/>Sinan Güntürk</a> 
-on the approximation capacity of deep neural networks.</p>
+<p>
+I'm a PhD candidate in the department of Computer Science at the University of British Columbia, co-advised by 
+<a href=https://www.cs.ubc.ca/~schmidtm/>Mark Schmidt</a>, 
+<a href=https://djsutherland.ml/>Danica Sutherland</a>, 
+and <a href=https://geoffpleiss.com/>Geoff Pleiss</a>. 
+My research focuses on the mathematics of deep learning, 
+using tools from applied harmonic and functional analysis, high-dimensional probability, and stochastic analysis 
+to understand approximation, optimization dynamics, and generalization in overparameterized models and neural networks.
+</p>
 
-<p>My research focus is on applying tools from
-functional and harmonic analysis, 
-probability theory and stochastic processes, 
-and optimal transport theory in developing a mathematical theory of neural networks.
-I am also interested in the foundations of Bayesian deep learning and generative models, and how both can be applied to solve Inverse Problems.</p>
-
-<p>I received my BS in Computer Science and BA in Physics with a Minor in Mathematics from 
-California State University, Long Beach (2021). 
-
-During this time, I worked with <a href=https://home.csulb.edu/~wzhang2/>Wenlu Zhang</a> in the <a href=http://csulb-ml.github.io/>Deep Learning Lab (LBDL)</a> 
-where we explored the intersection between Gaussian processes, recurrent networks, and attention mechanisms for time-series analysis 
-in collaboration with CSULB's <a href="https://www.csulb.edu/shark-lab">Shark Lab</a>, leading to a <a href=https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_13.pdf>KDD 2021 Workshop Paper</a>. 
-
-We also applied functional data analysis and transfer learning for anomaly detection in thermal images for 3D printing.</p>
-
-<p>After graduating, I spent 2 years as a Machine Learning Engineer at Samsung Research America with the Think Tank Team 
+<p>Previously, I completed a Master's in Mathematics at the Courant Institute of Mathematical Sciences at NYU, where I was advised by 
+<a href=https://cims.nyu.edu/~gunturk/>Sinan Güntürk</a>
+and <a href=https://cims.nyu.edu/~bruna/>Joan Bruna</a>.
+Before that, I received my BS in Computer Science and BA in Physics with a minor in Mathematics from 
+California State University, Long Beach (2021), where I worked with <a href=https://home.csulb.edu/~wzhang2/>Wenlu Zhang</a>.
+I also spent 2 years as a Machine Learning Engineer at Samsung Research America with the Think Tank Team 
 working under Rehmi Post on a variety of scientific and engineering problems involving
-Computational Imaging, Fourier Optics, Inverse Rendering, Signal Processing, Audio Analysis and Synthesis, and Video Analysis. </p>
+Computational Imaging, Fourier Optics, Inverse Rendering, Signal Processing, Audio Analysis and Synthesis, and Video Analysis.</p>

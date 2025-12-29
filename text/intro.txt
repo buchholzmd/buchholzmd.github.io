@@ -1,3 +1,0 @@
-<h1>Matt Buchholz</h1>
-<p>Machine learning engineer skilled in 
-Bayesian machine learning and generative models for computer vision, audio, and inverse problems</p>

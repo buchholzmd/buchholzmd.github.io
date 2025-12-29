@@ -1,0 +1,21 @@
+<h2 class="major">Publications</h2>
+
+<p>
+<b>Schedulers for schedule-free: Theoretically inspired hyperparameters</b><br> 
+Pun, Y.-M., <b>Buchholz, M.</b>, and Gower, R. M (2025) (under review)</i>
+[<a href="https://arxiv.org/abs/2511.07767">PDF</a>]
+</p>
+
+
+<p>
+<b>Recurrent Attentive Kernel Learning for Shark Activity Recognition</b><br> 
+<b>Buchholz, M.</b>, Zhang, W., Meese, E. N., Yang, Y., Lowe, C. G., & Yeh, H. G. (2021). in <i>KDD Workshop
+on Mining and Learning from Time Series (MiLeTS 2021)</i>
+[<a href="https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_13.pdf">PDF</a>]
+</p>
+
+<p>
+<b>DLAM: Deep learning based real-time porosity prediction for additive manufacturing using thermal images of the melt pool</b><br> 
+Ho, S., Zhang, W., Young, W., <b>Buchholz, M.</b>, Al Jufout, S., Dajani, K., ... & Mozumdar, M. (2021). in <i>IEEE Access, 9,</i> 115100-115114.
+[<a href="https://ieeexplore.ieee.org/abstract/document/9514863">PDF</a>]
+</p>

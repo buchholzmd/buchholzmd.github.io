@@ -35,8 +35,8 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="index.html">Home</a></li>
-							<li><a href="pubs.html">Publications</a></li>
+							<li><a href="index.html">Home</a></li>
+							<li class="active"><a href="pubs.html">Publications</a></li>
 							<li><a href="blog.html">Blog</a></li>
 							<li><a href="files/BuchholzMatthew_CV.pdf">CV</a></li>
 						</ul>
@@ -52,12 +52,17 @@
 				<!-- Main -->
 					<div id="main">
 
-						<article id="bio">
-							<script type="text/javascript">
-							fetch("text/bio.txt")
-							.then( response => response.text() )
-							.then( text => document.getElementById("bio").innerHTML = text )
-							</script>
+						<!-- Papers -->
+						<article id="pubs">
+							<!-- <span class="image main"><img src="images/pic02.jpg" alt="" /></span> -->
+							<article id="bio">
+								<script type="text/javascript">
+								fetch("text/pubs.txt")
+								.then( response => response.text() )
+								.then( text => document.getElementById("pubs").innerHTML = text )
+								</script>
+							</article>
+
 						</article>
 
 					</div>
