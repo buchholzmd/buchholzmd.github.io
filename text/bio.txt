@@ -14,20 +14,20 @@
 </center>
 
 <p>
-I'm a PhD candidate in the department of Computer Science at the University of British Columbia, co-advised by 
-<a href=https://www.cs.ubc.ca/~schmidtm/>Mark Schmidt</a>, 
-<a href=https://djsutherland.ml/>Danica Sutherland</a>, 
-and <a href=https://geoffpleiss.com/>Geoff Pleiss</a>. 
-My research focuses on the mathematics of deep learning, 
-using tools from applied harmonic and functional analysis, high-dimensional probability, and stochastic analysis 
-to understand approximation, optimization dynamics, and generalization in overparameterized models and neural networks.
-</p>
+I'm a PhD candidate in the department of Computer Science at the University of British Columbia, co-advised by
+<a href=https://www.cs.ubc.ca/~schmidtm/>Mark Schmidt</a>,
+<a href=https://djsutherland.ml/>Danica Sutherland</a>,
+and <a href=https://geoffpleiss.com/>Geoff Pleiss</a>.
+My research focuses on applying theory to predict and improve real training behavior in large-scale machine learning models. I am interested in
+the interplay of optimization dynamics and feature learning in neural networks, and particularily how large learning rates in gradient-based
+stochastic optimization methods improve training stability and generalization in large language and vision models.</p>
 
-<p>Previously, I completed a Master's in Mathematics at the Courant Institute of Mathematical Sciences at NYU, where I was advised by 
+<p>Previously, I earned a Master's in Mathematics at the Courant Institute of Mathematical Sciences at NYU, where I completed my thesis under
 <a href=https://cims.nyu.edu/~gunturk/>Sinan Güntürk</a>
 and <a href=https://cims.nyu.edu/~bruna/>Joan Bruna</a>.
-Before that, I received my BS in Computer Science and BA in Physics with a minor in Mathematics from 
-California State University, Long Beach (2021), where I worked with <a href=https://home.csulb.edu/~wzhang2/>Wenlu Zhang</a>.
-I also spent 2 years as a Machine Learning Engineer at Samsung Research America with the Think Tank Team 
-working under Rehmi Post on a variety of scientific and engineering problems involving
-Computational Imaging, Fourier Optics, Inverse Rendering, Signal Processing, Audio Analysis and Synthesis, and Video Analysis.</p>
+Before that, I received my BS in Computer Science and BA in Physics with a minor in Mathematics from
+California State University, Long Beach, where I worked with <a href=https://home.csulb.edu/~wzhang2/>Wenlu Zhang</a>.
+I also spent two years as a Machine Learning Engineer at Samsung Research America with the Think Tank Team working under Rehmi Post, where I
+implemented generative models for problems in computational imaging, inverse rendering, and
+audio synthesis, fine-tuned large-scale time-series transformer models for activty recognition from video data, and applied kernel methods for
+temperature prediction from raw audio.</p>
