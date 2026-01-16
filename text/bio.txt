@@ -29,5 +29,5 @@ Before that, I received my BS in Computer Science and BA in Physics with a minor
 California State University, Long Beach, where I worked with <a href=https://home.csulb.edu/~wzhang2/>Wenlu Zhang</a>.
 I also spent two years as a Machine Learning Engineer at Samsung Research America with the Think Tank Team working under Rehmi Post, where I
 implemented generative models for problems in computational imaging, inverse rendering, and
-audio synthesis, fine-tuned large-scale time-series transformer models for activty recognition from video data, and applied kernel methods for
+audio synthesis, fine-tuned large-scale time-series transformer models for activity recognition from video data, and applied kernel methods for
 temperature prediction from raw audio.</p>
